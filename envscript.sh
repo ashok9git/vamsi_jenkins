@@ -1,8 +1,8 @@
 #! /usr/bin/bash
 
-a=$1
-b=$2
-c=$3
+a=34
+b=56
+c=78
 
 if [ $# -ne 3 ]
 then
